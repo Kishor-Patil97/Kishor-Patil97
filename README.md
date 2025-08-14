@@ -1,6 +1,14 @@
+<!-- Banner -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kishor%20Patil&fontSize=50&fontColor=fff)
+
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=F75C7E&width=500&lines=Software+Engineer;Frontend+Developer;Full+Stack+Developer;System+Administrator;AI+and+ML+Explorer)](https://git.io/typing-svg)
+
+---
+
 # Namaste, I'm Kishor Patil 🙏  
 
-🚀 **Frontend Developer | Software Engineer | System Administrator**  
+🚀 **Software Engineer | Frontend Developer | System Administrator**  
 💡 Turning **ideas into interactive experiences** and solving problems with clean, scalable code.  
 🌱 Currently diving deeper into **AI/ML, DevOps tools, and full-stack development**.  
 ⚡ I believe in **learning by building** — every commit is a step forward!  
@@ -10,9 +18,9 @@
 ## 🌐 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kishor%20Patil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishor-patil97)
+[![Xing](https://img.shields.io/badge/Xing-Kishor%20Patil-006567?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Kishor_Patil069993)
 [![Email](https://img.shields.io/badge/Email-kishor.p97%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishor.p97@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Kishor%20Patil-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://kishor-patil97.github.io/)
-[![Xing](https://img.shields.io/badge/Xing-Kishor%20Patil-006567?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Kishor_Patil069993)
 
 ---
 
@@ -71,3 +79,32 @@
 </tr>
 </table>
 
+---
+
+## 📚 Currently Exploring
+- ⚡ Building interactive dashboards with **React & Chart.js**
+- ☁️ Deploying microservices with **Docker & Kubernetes**
+- 🤖 Learning fundamentals of **AI/ML and LLMs**
+
+---
+
+## 🎯 Fun Facts
+- ☕ Runs on coffee and clean code
+- 🗺️ Currently living in Germany 🇩🇪
+- 🌌 Dream goal for 2025: Experience the Northern Lights
+
+---
+
+## 🚀 Featured Projects
+[![SimplifySign](https://github-readme-stats.vercel.app/api/pin/?username=Kishor-Patil97&repo=SimplifySign&theme=radical)](https://github.com/Kishor-Patil97/SimplifySign)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Kishor-Patil97&repo=Portfolio&theme=radical)](https://github.com/Kishor-Patil97/Portfolio)
+
+---
+
+## 📈 Activity Graph
+![Kishor's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kishor-Patil97&theme=radical)
+
+---
+
+<!-- Footer -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
