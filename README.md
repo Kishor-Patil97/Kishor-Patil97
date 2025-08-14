@@ -10,9 +10,9 @@
 ## 🌐 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kishor%20Patil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishor-patil97)
-[![Xing](https://img.shields.io/badge/Xing-Kishor%20Patil-006567?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Kishor_Patil069993)
 [![Email](https://img.shields.io/badge/Email-kishor.p97%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishor.p97@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Kishor%20Patil-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://kishor-patil97.github.io/)
+[![Xing](https://img.shields.io/badge/Xing-Kishor%20Patil-006567?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Kishor_Patil069993)
 
 ---
 
