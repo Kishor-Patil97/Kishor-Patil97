@@ -58,6 +58,16 @@
 
 ## ⚡ GitHub Stats & Activity <sub>![Visitor Count](https://komarev.com/ghpvc/?username=Kishor-Patil97&color=blue&style=flat-square)</sub>
 
-![Kishor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kishor-Patil97&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishor-Patil97&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Kishor-Patil97&theme=radical)
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=Kishor-Patil97&show_icons=true&theme=radical" height="200"/>
+<br>
+<img src="https://streak-stats.demolab.com/?user=Kishor-Patil97&theme=radical" height="200"/>
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishor-Patil97&layout=compact&theme=radical" height="400"/>
+</td>
+</tr>
+</table>
+
