@@ -1,5 +1,7 @@
 <!-- Banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kishor%20Patil&fontSize=50&fontColor=fff)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kishor%20Patil&fontSize=50&fontColor=fff&animation=fadeIn" alt="Header Banner"/>
+</div>
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=F75C7E&width=500&lines=Software+Engineer;Frontend+Developer;Full+Stack+Developer;System+Administrator;AI+and+ML+Explorer)](https://git.io/typing-svg)
@@ -15,7 +17,7 @@
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 Connect with Me (💼 Open to Opportunities)
 <div align="center">
   
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishor.p97@gmail.com)
@@ -102,12 +104,16 @@
 - 🌌 Dream goal for 2025: Experience the Northern Lights
 - 🎮 Casual gamer and tech enthusiast
 - 📚 Love reading about emerging technologies and their impact on society
+- ✅ Me when I find no bugs after a push
+<p align="center">
+  <img src="https://media.giphy.com/media/111ebonMs90YLu/giphy.gif" width="300" />
+</p>
 
----
+...
 
-## 🚀 Featured Projects
+## ​ Featured Projects
 [![SimplifySign](https://github-readme-stats.vercel.app/api/pin/?username=Kishor-Patil97&repo=SimplifySign&theme=radical)](https://github.com/Kishor-Patil97/SimplifySign)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Kishor-Patil97&repo=Portfolio&theme=radical)](https://github.com/Kishor-Patil97/Portfolio)
+[![Lecture Management System](https://github-readme-stats.vercel.app/api/pin/?username=Kishor-Patil97&repo=Lecture_Management_System&theme=radical)](https://github.com/Kishor-Patil97/Lecture_Management_System)
 
 ---
 
@@ -122,4 +128,6 @@
 ---
 
 <!-- Footer -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" alt="Footer Banner"/>
+</div>
