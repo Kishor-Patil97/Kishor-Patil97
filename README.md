@@ -16,11 +16,10 @@
 ---
 
 ## 🌐 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kishor%20Patil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishor-patil97)
-[![Xing](https://img.shields.io/badge/Xing-Kishor%20Patil-006567?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Kishor_Patil069993)
-[![Email](https://img.shields.io/badge/Email-kishor.p97%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishor.p97@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Kishor%20Patil-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://kishor-patil97.github.io/)
+<a href="mailto:kishor.p97@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kishor-patil97"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.xing.com/profile/Kishor_Patil069993"><img src="https://img.shields.io/badge/Xing-006567?style=for-the-badge&logo=xing&logoColor=white"/></a>
+<a href="https://kishor-patil97.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 
 ---
 
