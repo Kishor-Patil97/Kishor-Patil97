@@ -10,7 +10,7 @@
 
 # Namaste, I'm Kishor Patil 🙏  
 
-🚀 **Software Engineer | Frontend Developer | System Administrator**  
+🚀 **Software Engineer | Frontend Developer | Full-stack Developer**  
 💡 Turning **ideas into interactive experiences** and solving problems with clean, scalable code.  
 🌱 Currently diving deeper into **AI/ML, DevOps tools, and full-stack development**.  
 ⚡ I believe in **learning by building** — every commit is a step forward!  
